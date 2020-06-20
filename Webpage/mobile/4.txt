@@ -1,0 +1,4 @@
+" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>湿度</span> <span class="pull-right">
